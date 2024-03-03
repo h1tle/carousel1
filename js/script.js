@@ -1,5 +1,5 @@
 (function () {
-	const container = document.querySelector('#carouselPureJs')
+	const container = document.querySelector('#carousel')
 	const slides = container.querySelectorAll('.slide')
 	const indicatorsContainer = container.querySelector('#indicators-container')
 	const indicatorItems = indicatorsContainer.querySelectorAll('.indicator')
